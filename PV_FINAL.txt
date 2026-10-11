@@ -1,0 +1,7 @@
+PROCES VERBAL Z-CORE G7 LITE SDK
+Date: 2026-10-11
+Tokens: 3900
+Bench: 8.08s vs 1092s monolithe
+Conformite: Loi 18-07 DZ - ZERO TRUST
+Signataire: Ilyes Zoubirou
+SHA256: [MOCK-SHA]
